@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "まにまに",
+  "base_artist": "r-906",
+  "createdAt": "2025-12-02T10:17:05.426582Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まにまに",
+      "artist": "r-906",
+      "has_synced": true,
+      "path": "select/01_まにまに_r-906.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まにまに",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_まにまに_r-906.txt"
+    }
+  ]
+}
